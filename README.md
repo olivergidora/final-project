@@ -3,7 +3,7 @@ Sales Analysis
 
 For a video demonstration, please see the 'Demonstration Video' file.
 
-This project is a analysis of sales data conducted for Panier Quebecois, a Montreal startup that is an 'online farmer's market' operating since 2020: https://panierquebecois.ca/en/
+This project is a analysis of sales data conducted for Panier Quebecois, a Montreal startup that is an online farmer's market operating since 2020: https://panierquebecois.ca/en/
 
 Panier Quebecois asked to answer a few business questions based on the sales data:
 1 - 
