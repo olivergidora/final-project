@@ -10,9 +10,12 @@ This project is a analysis of sales data conducted for Panier Quebecois, a Montr
 They shared sales data from 2020 to present in the form of a CSV file (not included). 
 
 Panier Quebecois asked to answer a few business questions based on the sales data:
+
 1 - What types of customers use promo codes? Are these high value customers? Repeat customers?
+
 2 - What product categories are highest value?
-2 - Which product categories in an order predict high-value customers? Which product categories help retain high-value customers?
+
+3 - Which product categories in an order predict high-value customers? Which product categories help retain high-value customers?
 
 The aim is to determine how effective current promo codes are, and to determine which product categories the company should offer more of in order to attract consistent, high-value customers.
 
