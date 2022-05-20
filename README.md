@@ -3,7 +3,7 @@ Sales Analysis
 
 This was my final project as part of Concordia University's Data Science Diploma Program.
 
-For a video demonstration, please see the 'Demonstration Video' file.
+Please see a video overview here! https://youtu.be/Sl96R0eAZZI
 
 This project is a analysis of sales data conducted for Panier Quebecois, a Montreal startup that is an online farmer's market operating since 2020: https://panierquebecois.ca/en/
 
@@ -25,4 +25,4 @@ Neural nets were also attempted but not used in the final analysis, as explained
 
 In order to preserve company and customer privacy, I modified the code to remove all references to customer and employee information. For this reason, the CSV file with the raw data is also not included in the repository.
 
-To present the findings, I used Dash by Plotly to build a presentation page. The code for this is in 'Plotly'. It will run a Dash App on a local server. A demonstration is in the 'Demonstration Video' file.
+To present the findings, I used Dash by Plotly to build a presentation page. The code for this is in 'Plotly'. It will run a Dash App on a local server.
